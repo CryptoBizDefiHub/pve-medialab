@@ -84,7 +84,7 @@ CT_STARTUP='2'
 CT_PASSWORD='0'
 # PVE Container OS
 OSTYPE='ubuntu'
-OSVERSION='21.04'
+OSVERSION='22.04'
 
 # App default UID/GUID
 APP_USERNAME='media'
